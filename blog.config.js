@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: '胡言',
   author: 'Tianting Huang',
   email: 'jx-htt@qq.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '一个分享随笔的地方',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']

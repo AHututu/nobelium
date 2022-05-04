@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '胡言',
+  title: '胡言|Balderdash',
   author: 'Tianting Huang',
   email: 'jx-htt@qq.com',
   link: 'https://nobelium.vercel.app',

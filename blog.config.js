@@ -1,6 +1,6 @@
 const BLOG = {
   title: '胡言|Balderdash',
-  author: 'Tianting Huang',
+  author: 'Hutu',
   email: 'jx-htt@qq.com',
   link: 'https://nobelium.vercel.app',
   description: '一个分享随笔的地方',
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://www.instagram.com/ahutu_',
+  socialLink: '',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
